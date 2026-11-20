@@ -26,6 +26,8 @@
   <a href="https://github.com/mid2tonight/ScreenMouse/releases"><img src="https://img.shields.io/github/downloads/mid2tonight/ScreenMouse/total?color=C15F3C" alt="Downloads"></a>
 </p>
 
+
+
 <p align="center">
   <img src="images/main-window.png" width="860" alt="Screen Mouse main window showing a MacBook Pro with two displays connected to a Windows PC">
 </p>
