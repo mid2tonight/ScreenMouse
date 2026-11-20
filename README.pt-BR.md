@@ -27,12 +27,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mid2tonight/ScreenMouse/releases/latest"><b>Baixar</b></a> ·
-  <a href="https://mid55.com/">Site</a> ·
-  <a href="CHANGELOG.md">Novidades</a>
-</p>
-
-<p align="center">
   <img src="images/main-window.png" width="860" alt="Janela principal do Screen Mouse mostrando um MacBook Pro com dois monitores conectado a um PC com Windows">
 </p>
 

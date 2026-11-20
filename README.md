@@ -27,12 +27,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mid2tonight/ScreenMouse/releases/latest"><b>Download</b></a> ·
-  <a href="https://mid55.com/">Website</a> ·
-  <a href="CHANGELOG.md">What's new</a>
-</p>
-
-<p align="center">
   <img src="images/main-window.png" width="860" alt="Screen Mouse main window showing a MacBook Pro with two displays connected to a Windows PC">
 </p>
 

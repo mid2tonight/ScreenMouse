@@ -27,12 +27,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mid2tonight/ScreenMouse/releases/latest"><b>下載</b></a> ·
-  <a href="https://mid55.com/">網站</a> ·
-  <a href="CHANGELOG.md">更新記錄</a>
-</p>
-
-<p align="center">
   <img src="images/main-window.png" width="860" alt="Screen Mouse 主視窗，顯示一部配有兩台顯示器的 MacBook Pro 已連線到一部 Windows PC">
 </p>
 

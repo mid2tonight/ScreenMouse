@@ -27,12 +27,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mid2tonight/ScreenMouse/releases/latest"><b>다운로드</b></a> ·
-  <a href="https://mid55.com/">웹 사이트</a> ·
-  <a href="CHANGELOG.md">업데이트 내역</a>
-</p>
-
-<p align="center">
   <img src="images/main-window.png" width="860" alt="Screen Mouse 기본 화면: 모니터 2대를 사용하는 MacBook Pro와 Windows PC가 연결된 모습">
 </p>
 
