@@ -1,0 +1,10 @@
+name: Ask a question
+description: Ask about installing, connecting, or using Screen Mouse.
+labels: [question]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true

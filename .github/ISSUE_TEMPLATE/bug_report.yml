@@ -1,0 +1,31 @@
+name: Report a problem
+description: Tell us about something that doesn't work as expected.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Describe the problem and the steps to reproduce it.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Screen Mouse version
+      placeholder: "2.0.1"
+    validations:
+      required: true
+  - type: checkboxes
+    id: os
+    attributes:
+      label: Operating systems of the connected computers
+      options:
+        - label: Windows
+        - label: macOS
+        - label: Linux
+  - type: textarea
+    id: more
+    attributes:
+      label: More information
+      description: Screenshots or anything else that helps. Don't include personal information.
