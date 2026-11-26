@@ -59,10 +59,10 @@ Screen Mouse는 직접 개발하고 관리하는 가벼운 소프트웨어 KVM�
 
 | 운영 체제 | 요구 사항 | 파일 |
 |---|---|---|
-| Windows | Windows 10 또는 11, 64비트 | [ScreenMouse_2.0.1_Setup.exe](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_Setup.exe) |
-| macOS | macOS 13 이상, Apple 실리콘 또는 Intel | [ScreenMouse_2.0.1.dmg](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1.dmg) |
-| Linux | x86_64, X11 또는 Wayland | [ScreenMouse_2.0.1_x86_64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_x86_64.AppImage) |
-| Linux(ARM) | aarch64(Raspberry Pi 4, 5 등) | [ScreenMouse_2.0.1_aarch64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_aarch64.AppImage) |
+| Windows | Windows 10 또는 11, 64비트 | [ScreenMouse_2.1.0_Setup.exe](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_Setup.exe) |
+| macOS | macOS 13 이상, Apple 실리콘 또는 Intel | [ScreenMouse_2.1.0.dmg](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0.dmg) |
+| Linux | x86_64, X11 또는 Wayland | [ScreenMouse_2.1.0_x86_64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_x86_64.AppImage) |
+| Linux(ARM) | aarch64(Raspberry Pi 4, 5 등) | [ScreenMouse_2.1.0_aarch64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_aarch64.AppImage) |
 
 이전 버전은 [Releases](https://github.com/mid2tonight/ScreenMouse/releases) 페이지에서 다운로드할 수 있습니다.
 

@@ -59,10 +59,10 @@ No hay que presionar ningún botón ni esperar a que cambie la pantalla, por lo 
 
 | SO | Requisitos | Archivo |
 |---|---|---|
-| Windows | Windows 10 u 11, de 64 bits | [ScreenMouse_2.0.1_Setup.exe](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_Setup.exe) |
-| macOS | macOS 13 o posterior, Apple silicon o Intel | [ScreenMouse_2.0.1.dmg](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1.dmg) |
-| Linux | x86_64, X11 o Wayland | [ScreenMouse_2.0.1_x86_64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_x86_64.AppImage) |
-| Linux (ARM) | aarch64, como Raspberry Pi 4 o 5 | [ScreenMouse_2.0.1_aarch64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_aarch64.AppImage) |
+| Windows | Windows 10 u 11, de 64 bits | [ScreenMouse_2.1.0_Setup.exe](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_Setup.exe) |
+| macOS | macOS 13 o posterior, Apple silicon o Intel | [ScreenMouse_2.1.0.dmg](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0.dmg) |
+| Linux | x86_64, X11 o Wayland | [ScreenMouse_2.1.0_x86_64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_x86_64.AppImage) |
+| Linux (ARM) | aarch64, como Raspberry Pi 4 o 5 | [ScreenMouse_2.1.0_aarch64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_aarch64.AppImage) |
 
 Las versiones anteriores están disponibles en la página [Versiones](https://github.com/mid2tonight/ScreenMouse/releases).
 

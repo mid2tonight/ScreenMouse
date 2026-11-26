@@ -59,10 +59,10 @@ Screen Mouse は、私が開発・保守している軽量なソフトウェア 
 
 | OS | 要件 | ファイル |
 |---|---|---|
-| Windows | Windows 10 または 11 (64 ビット) | [ScreenMouse_2.0.1_Setup.exe](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_Setup.exe) |
-| macOS | macOS 13 以降、Apple シリコンまたは Intel | [ScreenMouse_2.0.1.dmg](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1.dmg) |
-| Linux | x86_64、X11 または Wayland | [ScreenMouse_2.0.1_x86_64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_x86_64.AppImage) |
-| Linux (ARM) | aarch64 (Raspberry Pi 4 または 5 など) | [ScreenMouse_2.0.1_aarch64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_aarch64.AppImage) |
+| Windows | Windows 10 または 11 (64 ビット) | [ScreenMouse_2.1.0_Setup.exe](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_Setup.exe) |
+| macOS | macOS 13 以降、Apple シリコンまたは Intel | [ScreenMouse_2.1.0.dmg](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0.dmg) |
+| Linux | x86_64、X11 または Wayland | [ScreenMouse_2.1.0_x86_64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_x86_64.AppImage) |
+| Linux (ARM) | aarch64 (Raspberry Pi 4 または 5 など) | [ScreenMouse_2.1.0_aarch64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_aarch64.AppImage) |
 
 以前のバージョンは、[リリース](https://github.com/mid2tonight/ScreenMouse/releases) ページから入手できます。
 

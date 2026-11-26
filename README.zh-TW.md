@@ -59,10 +59,10 @@ Screen Mouse 是我自己開發和維護的輕量軟體 KVM。將游標移過螢
 
 | 作業系統 | 需求 | 檔案 |
 |---|---|---|
-| Windows | Windows 10 或 11，64 位元 | [ScreenMouse_2.0.1_Setup.exe](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_Setup.exe) |
-| macOS | macOS 13 或更新版本，Apple 晶片或 Intel | [ScreenMouse_2.0.1.dmg](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1.dmg) |
-| Linux | x86_64，X11 或 Wayland | [ScreenMouse_2.0.1_x86_64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_x86_64.AppImage) |
-| Linux (ARM) | aarch64，例如 Raspberry Pi 4 或 5 | [ScreenMouse_2.0.1_aarch64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.0.1/ScreenMouse_2.0.1_aarch64.AppImage) |
+| Windows | Windows 10 或 11，64 位元 | [ScreenMouse_2.1.0_Setup.exe](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_Setup.exe) |
+| macOS | macOS 13 或更新版本，Apple 晶片或 Intel | [ScreenMouse_2.1.0.dmg](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0.dmg) |
+| Linux | x86_64，X11 或 Wayland | [ScreenMouse_2.1.0_x86_64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_x86_64.AppImage) |
+| Linux (ARM) | aarch64，例如 Raspberry Pi 4 或 5 | [ScreenMouse_2.1.0_aarch64.AppImage](https://github.com/mid2tonight/ScreenMouse/releases/download/v2.1.0/ScreenMouse_2.1.0_aarch64.AppImage) |
 
 您可以在[發行版本](https://github.com/mid2tonight/ScreenMouse/releases)頁面取得舊版。
 
